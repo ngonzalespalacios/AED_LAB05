@@ -11,8 +11,8 @@ public class Main {
         // 1. Agregar tareas
         gestor.agregarTarea(new Tarea("Estudiar para el examen", 1));
         gestor.agregarTarea(new Tarea("Hacer la compra", 2));
-        gestor.agregarTarea(new Tarea("Limpiar la casa", 3));
-        gestor.agregarTarea(new Tarea("Lavar ropagi", 2));
+        gestor.agregarTarea(new Tarea("Limpiar el cuarto", 3));
+        gestor.agregarTarea(new Tarea("Lavar ropa", 2));
 
         // 2. Eliminar una tarea
         Tarea tareaAEliminar = new Tarea("Hacer la compra", 2);
