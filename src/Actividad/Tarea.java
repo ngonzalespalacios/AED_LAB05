@@ -1,4 +1,4 @@
-package Actividad;
+package actividad;
 public class Tarea {
     private String titulo;
     private int prioridad;

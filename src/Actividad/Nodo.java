@@ -1,4 +1,4 @@
-package Actividad;
+package actividad;
 
 public class Nodo <T>{
     private T dato;

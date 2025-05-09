@@ -1,4 +1,4 @@
-package Actividad;
+package actividad;
 
 public class GestorDeTareas<T> {
     private Nodo<T> cabeza;
